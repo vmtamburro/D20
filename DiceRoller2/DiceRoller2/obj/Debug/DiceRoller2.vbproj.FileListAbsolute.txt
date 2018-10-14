@@ -1,0 +1,15 @@
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\bin\Debug\DiceRoller2.exe.config
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\bin\Debug\DiceRoller2.exe
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\bin\Debug\DiceRoller2.pdb
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\bin\Debug\DiceRoller2.xml
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.Form1.resources
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.Resources.resources
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.vbproj.GenerateResource.cache
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.vbproj.CoreCompileInputs.cache
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.exe
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.xml
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.pdb
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\bin\Debug\DiceRoller2.exe.manifest
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\bin\Debug\DiceRoller2.application
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.exe.manifest
+C:\Users\Tori's PC\source\repos\DiceRoller2\DiceRoller2\obj\Debug\DiceRoller2.application
