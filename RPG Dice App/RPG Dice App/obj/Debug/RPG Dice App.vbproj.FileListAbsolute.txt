@@ -1,0 +1,13 @@
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG Dice App.vbprojAssemblyReference.cache
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG_Dice_App.Form1.resources
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG_Dice_App.Resources.resources
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG Dice App.vbproj.GenerateResource.cache
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG Dice App.vbproj.CoreCompileInputs.cache
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\bin\Debug\RPG Dice App.exe.config
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\bin\Debug\RPG Dice App.exe
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\bin\Debug\RPG Dice App.pdb
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\bin\Debug\RPG Dice App.xml
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG Dice App.exe
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG Dice App.xml
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG Dice App.pdb
+C:\Users\Tori's PC\source\repos\RPG Dice App\RPG Dice App\obj\Debug\RPG_Dice_App.Form2.resources
